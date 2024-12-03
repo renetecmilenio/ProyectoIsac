@@ -1,4 +1,4 @@
-5411
+5402
 72C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\fill-range\index.js133777287249311261 0
 98C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\posthtml\node_modules\entities\lib\index.d.ts133777287254585825 0
 94C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\@parcel\core\test\fixtures\custom-targets133777287205202108 1
@@ -17,7 +17,7 @@
 90C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\caniuse-lite\data\features\css-all.js133777287239274543 0
 81C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\nth-check\lib\compile.js.map133777287253587576 0
 75C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\ordered-binary\LICENSE133777287253725447 0
-52C:\Users\reno_\OneDrive\Escritorio\isac\package.json133777287257145839 0
+52C:\Users\reno_\OneDrive\Escritorio\isac\package.json133777345084187519 0
 57C:\Users\reno_\OneDrive\Escritorio\isac\package-lock.json133777287257145839 0
 75C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\update-browserslist-db133777287256993813 1
 87C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\source-map-js\lib\binary-search.js133777287255969869 0
@@ -31,7 +31,7 @@
 76C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\escalade\dist\index.mjs133777287249251385 0
 94C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\@swc\helpers\_\_skip_first_generator_next133777287237337994 1
 80C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\@parcel\events\package.json133777287205466743 0
-44C:\Users\reno_\OneDrive\Escritorio\isac\dist133777339703784586 1
+44C:\Users\reno_\OneDrive\Escritorio\isac\dist133777345446692066 1
 79C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\domutils\lib\esm\legacy.js133777287248154495 0
 65C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\sass\sass.js133777287255586227 0
 91C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\css-tree\lib\syntax\node\StyleSheet.js133777287245665468 0
@@ -393,7 +393,7 @@
 98C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\@swc\helpers\esm\_class_private_method_set.js133777287238049099 0
 97C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\@parcel\core\test\fixtures\duplicate-targets133777287205207137 1
 65C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\entities\lib133777287249168399 1
-65C:\Users\reno_\OneDrive\Escritorio\isac\dist\favicon.38ab3f7a.png133777337303939963 0
+65C:\Users\reno_\OneDrive\Escritorio\isac\dist\favicon.38ab3f7a.png133777345442789015 0
 116C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\@parcel\workers\test\integration\workerfarm\shared-reference.js133777287228614308 0
 100C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\caniuse-lite\data\features\fieldset-disabled.js133777287240026040 0
 102C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\ordered-binary\.nyc_output\processinfo\index.json133777287253725447 0
@@ -1002,7 +1002,7 @@
 91C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\@parcel\packager-js\src\.eslintrc.json133777287206242901 0
 96C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\posthtml\node_modules\domutils\lib\feeds.js133777287254368710 0
 96C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\source-map-js\lib\source-map-generator.d.ts133777287255992513 0
-63C:\Users\reno_\OneDrive\Escritorio\isac\dist\icons.c5b0f01c.svg133777337310696127 0
+63C:\Users\reno_\OneDrive\Escritorio\isac\dist\icons.c5b0f01c.svg133777345446211712 0
 68C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\is-json\LICENSE133777287250374976 0
 79C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\js-yaml\lib\schema\json.js133777287250578099 0
 85C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\term-size\vendor\macos\.DS_Store133777287256656905 0
@@ -2398,7 +2398,6 @@
 119C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\csso\node_modules\css-tree\cjs\syntax\node\PseudoClassSelector.cjs133777287246893777 0
 95C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\json-parse-even-better-errors\package.json133777287250667881 0
 88C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\htmlparser2\lib\esm\Parser.d.ts.map133777287250071539 0
-66C:\Users\reno_\OneDrive\Escritorio\isac\dist\index.e37f48ea.js.map133777338153074452 0
 64C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\js-yaml\bin133777287250454900 1
 109C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\csso\node_modules\css-tree\lib\syntax\node\Identifier.js133777287247472604 0
 73C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\js-yaml\CHANGELOG.md133777287250439888 0
@@ -2569,7 +2568,7 @@
 100C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\caniuse-lite\data\features\wasm-relaxed-simd.js133777287241250895 0
 73C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\htmlnano\lib\modules133777287249957020 1
 90C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\caniuse-lite\data\features\svg-css.js133777287240942968 0
-63C:\Users\reno_\OneDrive\Escritorio\isac\dist\index.ee92b370.css133777337311158341 0
+63C:\Users\reno_\OneDrive\Escritorio\isac\dist\index.ee92b370.css133777345446617001 0
 73C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\htmlnano\lib\presets133777287249984108 1
 72C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\dotenv\CHANGELOG.md133777287248555499 0
 85C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\htmlnano\lib\presets\ampSafe.cjs133777287249967998 0
@@ -5393,19 +5392,11 @@
 64C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\.bin\semver133777287203703675 0
 62C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\.bin\svgo133777287203709292 0
 80C:\Users\reno_\OneDrive\Escritorio\isac\node_modules\.bin\update-browserslist-db133777287203719939 0
-65C:\Users\reno_\OneDrive\Escritorio\isac\dist\favicon.8b2f57bf.png133777337219241135 0
-63C:\Users\reno_\OneDrive\Escritorio\isac\dist\icons.21bad73c.svg133777337220086286 0
-62C:\Users\reno_\OneDrive\Escritorio\isac\dist\index.1dd993bd.js133777339703179363 0
-66C:\Users\reno_\OneDrive\Escritorio\isac\dist\index.1dd993bd.js.map133777339703768214 0
-62C:\Users\reno_\OneDrive\Escritorio\isac\dist\index.50c9cc48.js133777337311172100 0
-66C:\Users\reno_\OneDrive\Escritorio\isac\dist\index.50c9cc48.js.map133777337311249676 0
-62C:\Users\reno_\OneDrive\Escritorio\isac\dist\index.e37f48ea.js133777338153038699 0
-67C:\Users\reno_\OneDrive\Escritorio\isac\dist\index.ee92b370.css.map133777337311249676 0
-63C:\Users\reno_\OneDrive\Escritorio\isac\dist\index.f7626f62.css133777337219499042 0
-67C:\Users\reno_\OneDrive\Escritorio\isac\dist\index.f7626f62.css.map133777337219528907 0
-55C:\Users\reno_\OneDrive\Escritorio\isac\dist\index.html133777339703470389 0
-62C:\Users\reno_\OneDrive\Escritorio\isac\dist\logo.0240107d.png133777337310530478 0
-62C:\Users\reno_\OneDrive\Escritorio\isac\dist\logo.726d37a8.png133777337219241135 0
+62C:\Users\reno_\OneDrive\Escritorio\isac\dist\index.1dd993bd.js133777345446617001 0
+66C:\Users\reno_\OneDrive\Escritorio\isac\dist\index.1dd993bd.js.map133777345446670109 0
+67C:\Users\reno_\OneDrive\Escritorio\isac\dist\index.ee92b370.css.map133777345446670109 0
+55C:\Users\reno_\OneDrive\Escritorio\isac\dist\index.html133777345446617001 0
+62C:\Users\reno_\OneDrive\Escritorio\isac\dist\logo.0240107d.png133777345441978176 0
 60C:\Users\reno_\OneDrive\Escritorio\isac\.netlify\blobs-serve133777291874473900 1
 67C:\Users\reno_\OneDrive\Escritorio\isac\.netlify\functions-internal133777291875200974 1
 59C:\Users\reno_\OneDrive\Escritorio\isac\.netlify\state.json133777291897573493 0
