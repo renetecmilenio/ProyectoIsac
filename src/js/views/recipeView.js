@@ -1,7 +1,9 @@
 import icons from '../../img/icons.svg';
-var Fraction = require('fractional').Fraction;
 // import { Fraction } from 'fractional';
+var Fraction = require('fractional').Fraction;
 import View from './View.js';
+
+console.log(Fraction);
 
 class RecipeView extends View {
   _parentElement = document.querySelector('.recipe');
