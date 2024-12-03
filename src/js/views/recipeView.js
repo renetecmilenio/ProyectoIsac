@@ -1,4 +1,5 @@
 import icons from '../../img/icons.svg';
+var Fraction = require('fractional').Fraction;
 import { Fraction } from 'fractional';
 import View from './View.js';
 
@@ -17,7 +18,7 @@ class RecipeView extends View {
   _clear() {
     this._parentElement.innerHTML = '';
   }
-  
+
   renderSpinner() {
     const markup = `
       <div class="spinner">
@@ -30,8 +31,8 @@ class RecipeView extends View {
     this._parentElement.insertAdjacentHTML('afterbegin', markup);
   }
 
-  renderError(message = this._errorMessage){
-    const markup=`
+  renderError(message = this._errorMessage) {
+    const markup = `
       <div class="error">
       <div>
         <svg>
@@ -64,11 +65,12 @@ class RecipeView extends View {
     ['hashchange', 'load'].forEach(ev => window.addEventListener(ev, handler));
   }
 
-
   _generateMarkup() {
     return `
       <figure class="recipe__fig">
-        <img src="${this._data.image}" alt="${this._data.title}" class="recipe__img" />
+        <img src="${this._data.image}" alt="${
+      this._data.title
+    }" class="recipe__img" />
         <h1 class="recipe__title">
           <span>${this._data.title}</span>
         </h1>
@@ -78,14 +80,18 @@ class RecipeView extends View {
           <svg class="recipe__info-icon">
             <use href="${icons}#icon-clock"></use>
           </svg>
-          <span class="recipe__info-data recipe__info-data--minutes">${this._data.cookTime}</span>
+          <span class="recipe__info-data recipe__info-data--minutes">${
+            this._data.cookTime
+          }</span>
           <span class="recipe__info-text">minutes</span>
         </div>
         <div class="recipe__info">
           <svg class="recipe__info-icon">
             <use href="${icons}#icon-users"></use>
           </svg>
-          <span class="recipe__info-data recipe__info-data--people">${this._data.servings}</span>
+          <span class="recipe__info-data recipe__info-data--people">${
+            this._data.servings
+          }</span>
           <span class="recipe__info-text">servings</span>
           <div class="recipe__info-buttons">
             <button class="btn--tiny btn--increase-servings">
@@ -115,17 +121,21 @@ class RecipeView extends View {
         <h2 class="heading--2">Recipe ingredients</h2>
         <ul class="recipe__ingredient-list">
           ${this._data.ingredients
-            .map(ing => `
+            .map(
+              ing => `
               <li class="recipe__ingredient">
                 <svg class="recipe__icon">
                   <use href="${icons}#icon-check"></use>
                 </svg>
-                <div class="recipe__quantity">${ing.quantity ? new Fraction(ing.quantity).toString() : ''}</div>
+                <div class="recipe__quantity">${
+                  ing.quantity ? new Fraction(ing.quantity).toString() : ''
+                }</div>
                 <div class="recipe__description">
                   ${ing.description}
                 </div>
               </li>
-            `)
+            `
+            )
             .join('')}
         </ul>
       </div>
@@ -133,7 +143,9 @@ class RecipeView extends View {
         <h2 class="heading--2">How to cook it</h2>
         <p class="recipe__directions-text">
           This recipe was carefully designed and tested by
-          <span class="recipe__publisher">${this._data.publisher}</span>. Please check out directions at their website.
+          <span class="recipe__publisher">${
+            this._data.publisher
+          }</span>. Please check out directions at their website.
         </p>
         <a
           class="btn--small recipe__btn"
