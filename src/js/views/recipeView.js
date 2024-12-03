@@ -1,6 +1,6 @@
 import icons from '../../img/icons.svg';
 var Fraction = require('fractional').Fraction;
-import { Fraction } from 'fractional';
+// import { Fraction } from 'fractional';
 import View from './View.js';
 
 class RecipeView extends View {
