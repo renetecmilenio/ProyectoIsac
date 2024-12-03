@@ -2,27 +2,19 @@ import icons from '../../img/icons.svg';
 import { Fraction } from 'fractional';
 import View from './View.js';
 
-class recipeView extends View {
+class RecipeView extends View {
   _parentElement = document.querySelector('.recipe');
   _errorMessage = 'We could not find that recipe. Please try another one!';
   _message = 'Operation successful!';
-}
-
-
-class recipeView {
-  _parentElement = document.querySelector('.recipe');
-  _data;
-  _errorMessage ="No encontramos la receta, tecleea otra por favor";
-  _renderMessage = "Operacion Exitosa";
 
   render(data) {
     this._data = data;
     const markup = this._generateMarkup();
-    this._clean();
+    this._clear();
     this._parentElement.insertAdjacentHTML('afterbegin', markup);
   }
 
-  _clean() {
+  _clear() {
     this._parentElement.innerHTML = '';
   }
   
@@ -34,7 +26,7 @@ class recipeView {
         </svg>
       </div>
     `;
-    this._clean();
+    this._clear();
     this._parentElement.insertAdjacentHTML('afterbegin', markup);
   }
 
@@ -49,8 +41,8 @@ class recipeView {
       <p>${message}</p>
     </div>
     `;
-    this._clean();
-    this._dataparentElement.insertAdjacentHTML('afterbegin', markup);
+    this._clear();
+    this._parentElement.insertAdjacentHTML('afterbegin', markup);
   }
 
   renderMessage(message = this._message) {
@@ -64,7 +56,7 @@ class recipeView {
         <p>${message}</p>
       </div>
     `;
-    this._clean();
+    this._clear();
     this._parentElement.insertAdjacentHTML('afterbegin', markup);
   }
 
@@ -158,4 +150,4 @@ class recipeView {
   }
 }
 
-export default new recipeView();
+export default new RecipeView();

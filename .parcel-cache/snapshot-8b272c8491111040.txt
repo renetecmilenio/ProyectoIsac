@@ -1,6 +1,6 @@
-6022
+6015
 51C:\Users\JIAHP\Documents\JavaScript II\Proyecto\src133772405620819226 1
-60C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules133766955450461031 1
+60C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules133773280105441273 1
 98C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@swc\helpers\cjs\_new_arrow_check.cjs133754159914029173 0
 100C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\css-tree\lib\syntax\config\generator.js133754159913589184 0
 88C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\lines-and-columns\README.md133754159904404540 0
@@ -23,7 +23,7 @@
 95C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\mdn-data\css\selectors.schema.json133754159907835119 0
 90C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\css-tree\cjs\walker\index.cjs133754159910987475 0
 101C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@parcel\runtime-browser-hmr\package.json133754159905687429 0
-52C:\Users\JIAHP\Documents\JavaScript II\Proyecto\dist133772413493060466 1
+52C:\Users\JIAHP\Documents\JavaScript II\Proyecto\dist133776718542830831 1
 83C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\mdn-data\l10n\index.js133754159904862458 0
 113C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@swc\helpers\_\_class_private_field_set\package.json133754159909614535 0
 146C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\definition-syntax\SyntaxError.js133754159912464695 0
@@ -31,8 +31,8 @@
 93C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\css-tree\lib\syntax\node\Hash.js133754159913653228 0
 97C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\cosmiconfig\dist\getDirectory.js.map133754159908364828 0
 87C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\lightningcss\node\flags.js133754159907498464 0
-58C:\Users\JIAHP\Documents\JavaScript II\Proyecto\index.html133772406229314771 0
-78C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@msgpackr-extract133766955450461031 1
+58C:\Users\JIAHP\Documents\JavaScript II\Proyecto\index.html133776709576950545 0
+78C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@msgpackr-extract133773280105454409 1
 60C:\Users\JIAHP\Documents\JavaScript II\Proyecto\package.json133766955450461031 0
 98C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\css-tree\cjs\lexer\generic-urange.cjs133754159910051185 0
 89C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@swc\helpers\esm\_extends.js133754159915071598 0
@@ -42,14 +42,14 @@
 103C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\posthtml\node_modules\posthtml-parser\dist133754159905436498 1
 74C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\css-tree\data133754159914810626 1
 107C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\csso\node_modules\css-tree\cjs\lexer\Lexer.cjs133754159910837844 0
-65C:\Users\JIAHP\Documents\JavaScript II\Proyecto\package-lock.json133766955451117166 0
+65C:\Users\JIAHP\Documents\JavaScript II\Proyecto\package-lock.json133773280105963929 0
 81C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@lmdb\lmdb-win32-x64133754159907824622 1
 92C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\type-fest\source\utilities.d.ts133754159909198401 0
 77C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\css-what\LICENSE133754159903330134 0
 99C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\caniuse-lite\data\features\lazyload.js133754159917130497 0
 89C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\htmlnano\docs\versioned_docs133754159910224816 1
 114C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\caniuse-lite\data\features\css-backgroundblendmode.js133754159913022870 0
-65C:\Users\JIAHP\Documents\JavaScript II\Proyecto\src\js\helpers.js133766956041669157 0
+65C:\Users\JIAHP\Documents\JavaScript II\Proyecto\src\js\helpers.js133773281767860523 0
 96C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@parcel\package-manager\src\Pnpm.js133754159908308666 0
 107C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\node-gyp-build-optional-packages\build-test.js133754159904087527 0
 55C:\Users\JIAHP\Documents\JavaScript II\Proyecto\src\img133749662586422176 1
@@ -133,7 +133,7 @@
 82C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\htmlparser2\README.md133754159906588819 0
 88C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\source-map-js\lib\base64.js133754159904396534 0
 98C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@parcel\transformer-json\package.json133754159904497429 0
-68C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@parcel133766955450461031 1
+68C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@parcel133773280105454409 1
 79C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\error-ex\README.md133754159904335089 0
 78C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\get-port\index.js133754159904123956 0
 104C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\lmdb\node_modules\node-addon-api\LICENSE.md133754159907513654 0
@@ -178,7 +178,7 @@
 81C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\semver\ranges\gtr.js133754159906895229 0
 88C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@parcel\runtime-browser-hmr133754159905655987 1
 105C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@swc\helpers\_\_sliced_to_array\package.json133754159912464695 0
-68C:\Users\JIAHP\Documents\JavaScript II\Proyecto\src\js\controller.js133772412976108268 0
+68C:\Users\JIAHP\Documents\JavaScript II\Proyecto\src\js\controller.js133776710556300195 0
 98C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\caniuse-lite\data\features\wasm-gc.js133754159919070915 0
 92C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\caniuse-lite\data\regions\BM.js133754159911346105 0
 87C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\source-map-js\package.json133754159906694422 0
@@ -189,7 +189,7 @@
 113C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\csso\node_modules\css-tree\cjs\syntax\node\index.cjs133754159910569171 0
 93C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@parcel\core\lib\ParcelConfig.js133754159912188503 0
 129C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\attributes.js133754159904386463 0
-63C:\Users\JIAHP\Documents\JavaScript II\Proyecto\src\js\model.js133772393474245277 0
+63C:\Users\JIAHP\Documents\JavaScript II\Proyecto\src\js\model.js133776709613228024 0
 92C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\caniuse-lite\data\regions\MU.js133754159917607691 0
 79C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\timsort\.npmignore133754159903605519 0
 111C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@swc\helpers\cjs\_define_enumerable_properties.cjs133754159913785812 0
@@ -212,7 +212,7 @@
 87C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\picomatch\lib\constants.js133754159903712539 0
 91C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\update-browserslist-db\LICENSE133754159903370694 0
 123C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeDesc.js133754159909533329 0
-74C:\Users\JIAHP\Documents\JavaScript II\Proyecto\src\js\views\recipeView.js133772409936311626 0
+74C:\Users\JIAHP\Documents\JavaScript II\Proyecto\src\js\views\recipeView.js133776719653634618 0
 120C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\msgpackr-extract\node_modules\detect-libc\lib\filesystem.js133754159904272279 0
 92C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\caniuse-lite\data\regions\UG.js133754159918875533 0
 78C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\tslib\LICENSE.txt133754159906724506 0
@@ -280,15 +280,15 @@
 110C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\css-select\lib\esm\pseudo-selectors\subselects.js133754159907715066 0
 65C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\.bin133754161069815753 1
 72C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\safe-buffer133754159904610543 1
-79C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\.package-lock.json133766955451476059 0
+79C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\.package-lock.json133773280106347162 0
 115C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@parcel\package-manager\src\validateModuleSpecifier.js133754159908670059 0
 84C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\weak-lru-cache\index.js133754159904217987 0
 67C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@lezer133754159894115859 1
 106C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\csso\node_modules\css-tree\cjs\data-patch.cjs133754159908487629 0
 98C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\caniuse-lite\data\features\flexbox.js133754159915732859 0
-66C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@lmdb133766955450461031 1
+66C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@lmdb133773280105454409 1
 99C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\css-tree\cjs\syntax\node\Dimension.cjs133754159909055053 0
-65C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@swc133766955450461031 1
+65C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@swc133773280105451287 1
 109C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\caniuse-lite\data\features\css3-cursors-newer.js133754159914794918 0
 86C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@parcel\optimizer-css\lib133754159903672227 1
 82C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\base-x\src\index.d.ts133754159904762112 0
@@ -2129,7 +2129,6 @@
 108C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl.h133754159912353210 0
 92C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\caniuse-lite\data\regions\NA.js133754159917670353 0
 103C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\caniuse-lite\data\features\svg-fragment.js133754159918597288 0
-73C:\Users\JIAHP\Documents\JavaScript II\Proyecto\dist\favicon.42656662.png133772315849959698 0
 78C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\lmdb\src\misc.cpp133754159911663525 0
 88C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\lmdb\src\ordered-binary.cpp133754159911703751 0
 105C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\caniuse-lite\data\features\object-observe.js133754159917796863 0
@@ -3127,7 +3126,6 @@
 82C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@parcel\packager-html133754159904497429 1
 90C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\csso\lib\restructure\utils.js133754159911663525 0
 113C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@swc\helpers\esm\_class_static_private_method_get.js133754159914945169 0
-71C:\Users\JIAHP\Documents\JavaScript II\Proyecto\dist\icons.c14567a0.svg133772315854492055 0
 98C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\csso\lib\restructure\prepare\index.js133754159911196270 0
 103C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@parcel\core\test\fixtures\invalid-engines133754159913848033 1
 131C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeStyleElement.js133754159910366715 0
@@ -3258,7 +3256,6 @@
 102C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\css-tree\lib\utils\create-custom-error.js133754159913150572 0
 97C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\.bin\download-msgpackr-prebuilds.cmd133754159920431877 0
 78C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\caniuse-lite\dist133754159918514902 1
-74C:\Users\JIAHP\Documents\JavaScript II\Proyecto\dist\index.4250985a.js.map133772315854777696 0
 88C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\css-tree\lib\utils\index.js133754159913906915 0
 87C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\css-tree\lib\utils\List.js133754159913967453 0
 92C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\css-select\lib\compile.d.ts.map133754159908942470 0
@@ -3700,7 +3697,7 @@
 125C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\css-select\node_modules\dom-serializer\lib\esm\foreignNames.d.ts133754159906624169 0
 129C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\css-select\node_modules\dom-serializer\lib\esm\foreignNames.d.ts.map133754159905661052 0
 104C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@swc\helpers\_\_check_private_redeclaration133754159907835119 1
-75C:\Users\JIAHP\Documents\JavaScript II\Proyecto\dist\index.f7626f62.css.map133772412978266234 0
+75C:\Users\JIAHP\Documents\JavaScript II\Proyecto\dist\index.f7626f62.css.map133776707502953716 0
 123C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\css-select\node_modules\dom-serializer\lib\esm\foreignNames.js133754159903986606 0
 122C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\css-select\node_modules\dom-serializer\lib\esm\index.d.ts.map133754159906163163 0
 105C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\caniuse-lite\data\features\variable-fonts.js133754159918963030 0
@@ -4077,7 +4074,6 @@
 92C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\caniuse-lite\data\regions\RW.js133754159918286645 0
 92C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\caniuse-lite\data\regions\SA.js133754159918286645 0
 92C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\caniuse-lite\data\regions\SB.js133754159918302987 0
-71C:\Users\JIAHP\Documents\JavaScript II\Proyecto\dist\index.ee92b370.css133772315854737615 0
 92C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\caniuse-lite\data\regions\SD.js133754159918333080 0
 92C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\caniuse-lite\data\regions\SE.js133754159918343064 0
 101C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@swc\helpers\src\_async_to_generator.mjs133754159915846824 0
@@ -4435,7 +4431,7 @@
 100C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\caniuse-lite\data\features\web-share.js133754159919173924 0
 104C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\caniuse-lite\data\features\server-timing.js133754159918364232 0
 100C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\caniuse-lite\data\features\shadowdom.js133754159918394616 0
-71C:\Users\JIAHP\Documents\JavaScript II\Proyecto\dist\icons.21bad73c.svg133772412978406249 0
+71C:\Users\JIAHP\Documents\JavaScript II\Proyecto\dist\icons.21bad73c.svg133776707503050429 0
 107C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@swc\helpers\_\_apply_decs_2203_r\package.json133754159904414617 0
 74C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@lezer\common133754159905611934 1
 108C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\caniuse-lite\data\features\sharedarraybuffer.js133754159918404709 0
@@ -4713,7 +4709,7 @@
 86C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@swc\helpers\src\_jsx.mjs133754159916363893 0
 98C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@swc\helpers\src\_new_arrow_check.mjs133754159916373900 0
 100C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@swc\helpers\src\_non_iterable_rest.mjs133754159916373900 0
-71C:\Users\JIAHP\Documents\JavaScript II\Proyecto\dist\index.f7626f62.css133772412978236237 0
+71C:\Users\JIAHP\Documents\JavaScript II\Proyecto\dist\index.f7626f62.css133776707502933737 0
 109C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@swc\helpers\src\_object_destructuring_empty.mjs133754159916394110 0
 96C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@swc\helpers\src\_object_spread.mjs133754159916404175 0
 121C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\jsAPI.d.ts133754159911462810 0
@@ -5686,7 +5682,7 @@
 138C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\scope\selector.js133754159912227667 0
 134C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\dir.js133754159909554126 0
 134C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\has.js133754159910326662 0
-73C:\Users\JIAHP\Documents\JavaScript II\Proyecto\dist\favicon.8b2f57bf.png133772412978236237 0
+73C:\Users\JIAHP\Documents\JavaScript II\Proyecto\dist\favicon.8b2f57bf.png133776707502230075 0
 135C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\lang.js133754159911056986 0
 134C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\not.js133754159911553109 0
 138C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\slotted.js133754159912317604 0
@@ -5799,7 +5795,7 @@
 95C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@parcel\graph\src\shared-buffer.js133754159907543632 0
 87C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@parcel\graph\src\types.js133754159907802879 0
 95C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@parcel\graph\lib\AdjacencyList.js133754159904509329 0
-70C:\Users\JIAHP\Documents\JavaScript II\Proyecto\dist\index.e37f48ea.js133772413493020492 0
+70C:\Users\JIAHP\Documents\JavaScript II\Proyecto\dist\index.e37f48ea.js133776718542800745 0
 88C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@parcel\graph\lib\BitSet.js133754159905661052 0
 94C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@parcel\graph\lib\ContentGraph.js133754159906357241 0
 87C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\@parcel\graph\lib\types.js133754159907689855 0
@@ -6013,11 +6009,8 @@
 74C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\.bin\svgo.cmd133754159920442523 0
 88C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\.bin\update-browserslist-db133754159920442523 0
 92C:\Users\JIAHP\Documents\JavaScript II\Proyecto\node_modules\.bin\update-browserslist-db.ps1133754159920442523 0
-70C:\Users\JIAHP\Documents\JavaScript II\Proyecto\dist\index.4250985a.js133772315854737615 0
-75C:\Users\JIAHP\Documents\JavaScript II\Proyecto\dist\index.ee92b370.css.map133772315854777696 0
-70C:\Users\JIAHP\Documents\JavaScript II\Proyecto\dist\logo.833dfef5.png133772315851725339 0
-70C:\Users\JIAHP\Documents\JavaScript II\Proyecto\dist\logo.726d37a8.png133772412978146290 0
-63C:\Users\JIAHP\Documents\JavaScript II\Proyecto\dist\index.html133772412978236237 0
-70C:\Users\JIAHP\Documents\JavaScript II\Proyecto\dist\index.cad701ec.js133772412978276258 0
-74C:\Users\JIAHP\Documents\JavaScript II\Proyecto\dist\index.cad701ec.js.map133772412978296245 0
-74C:\Users\JIAHP\Documents\JavaScript II\Proyecto\dist\index.e37f48ea.js.map133772413493050502 0
+70C:\Users\JIAHP\Documents\JavaScript II\Proyecto\dist\logo.726d37a8.png133776707502200088 0
+63C:\Users\JIAHP\Documents\JavaScript II\Proyecto\dist\index.html133776707502858019 0
+70C:\Users\JIAHP\Documents\JavaScript II\Proyecto\dist\index.cad701ec.js133776707502873102 0
+74C:\Users\JIAHP\Documents\JavaScript II\Proyecto\dist\index.cad701ec.js.map133776707502893641 0
+74C:\Users\JIAHP\Documents\JavaScript II\Proyecto\dist\index.e37f48ea.js.map133776718542820821 0
